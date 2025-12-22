@@ -36,3 +36,11 @@ if (isOldEnough) {
     console.log(`You are too young you need to wait for another ${yearsLeft} years until you can drive`);
 }
 
+//  Equality Operators == vs ===
+
+const age = 18;
+if (age === 18) console.log("you must be an adult");
+
+// the === is the strict equality operator because it dosen't perform type couersion.  
+// the == or the loose equality operator does perform type couersion.
+
