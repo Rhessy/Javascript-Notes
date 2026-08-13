@@ -1,0 +1,36 @@
+.margin-layer {
+  background-color: #fa0202;
+  padding: 40px;
+  text-align: center;
+  font-family: sans-serif;
+  font-weight: bold;
+  border: 2px solid black;
+}
+
+.border-layer {
+  background-color: #00ff00;
+  padding: 40px;
+  text-align: center;
+  font-family: sans-serif;
+  font-weight: bold;
+  border: 2px solid black;
+}
+
+.padding-layer {
+  background-color: #0000ff;
+  color: white; /* dark bg needs light text */
+  padding: 40px;
+  text-align: center;
+  font-family: sans-serif;
+  font-weight: bold;
+  border: 2px solid black;
+}
+
+.content-layer {
+  background-color: #ffff00;
+  padding: 40px;
+  text-align: center;
+  font-family: sans-serif;
+  font-weight: bold;
+  border: 2px solid black;
+}
